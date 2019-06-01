@@ -7,5 +7,9 @@ takakaka
 ```
 kod
 ```
+<<<<<<< HEAD
 druga linia
 niby druga a dziesiata
+=======
+jeszcze troche linii
+>>>>>>> 3f73cd65ee9a5ab270fa1b1d698bcef3bcf22ff6
