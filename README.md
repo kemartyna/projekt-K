@@ -7,3 +7,5 @@ takakaka
 ```
 kod
 ```
+druga linia
+niby druga a dziesiata
